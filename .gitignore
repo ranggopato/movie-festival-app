@@ -1,0 +1,31 @@
+# Go binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build directories
+/bin/
+/obj/
+
+
+# SQLite Database file
+movie_festival.db
+
+# IDE and Editor specific files
+# VS Code
+.vscode/
+
+# GoLand
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files created by Go
+*.test
